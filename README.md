@@ -10,7 +10,7 @@
 
 # Projeto - aprendendo a escrever um README
 
-<img src="img/tela.png">
+![Imagem](https://github.com/miguelitto16/portifolio-pessoal/blob/main/Img/tela.png)
 
 ## Descrição
 
