@@ -13,7 +13,7 @@
 ![Imagem](https://github.com/miguelitto16/portifolio-pessoal/blob/main/Img/tela.png)
 
 ## Descrição
-[É uma pagina incial com os botões de novidades e contatos]
+[É uma pagina incial com os botões de novidades e contatos](#descri%C3%A7%C3%A3o)
 ## Introdução
 
 ## Funcionalidades
