@@ -13,10 +13,11 @@
 ![Imagem](https://github.com/miguelitto16/portifolio-pessoal/blob/main/Img/tela.png)
 
 ## Descrição
-[É uma pagina incial com os botões de novidades e contatos](#descri%C3%A7%C3%A3o)
+[É uma pagina incial com os botões de novidades,contatos e saber mais](#descri%C3%A7%C3%A3o)
 ## Introdução
-
+[Este projeto é uma página de capa  usando Bootstrap v5.0, ideal para página inicial, com cabeçalho, seção principal e rodapé](#introdu%C3%A7%C3%A3o)
 ## Funcionalidades
+[Cabeçalho com links de navegação|Botão "Saber mais" na pagina principal|Estilização usando CSS Layout do Bootstrap](#funcionalidades)
 
 ### Tecnologias Utilizadas
 
