@@ -31,6 +31,7 @@ Este projeto é uma página de capa  usando Bootstrap v5.0, ideal para página i
 * Bootstrap v5.0
 ## Fontes cosultadas
  [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível
+ 
  Consulta com Professor Leonardo Rocha
 ## Autores
 Nicolas, Miguel e Gabriel
