@@ -13,8 +13,8 @@
 ![Imagem](https://github.com/miguelitto16/portifolio-pessoal/blob/main/Img/tela.png)
 
 ## Descrição
-
-## Introducção
+[É uma pagina incial com os botões de novidades e contatos]
+## Introdução
 
 ## Funcionalidades
 
@@ -23,4 +23,4 @@
 ## Fontes consultadas 
 
 ## Autores
-
+Miguel,Gabriel,Nicolas
