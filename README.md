@@ -34,4 +34,4 @@
 ## Fontes consultadas 
 [https://getbootstrap.com/](https://github.com/miguelitto16/portifolio-pessoal#fontes-consultadas)
 ## Autores
-Miguel,Gabriel,Nicolas
+Miguel,Nicolas,Gabriel
