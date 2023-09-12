@@ -14,16 +14,17 @@
 
 ## Descrição
 É uma pagina incial com os botões de novidades e contatos
+
 ## Introdução
 Este projeto é uma página de capa  usando Bootstrap v5.0, ideal para página inicial, com cabeçalho, seção principal e rodapé
+
 ## Funcionalidades
+`Cabeçalho`: Descrição
 * Cabeçalho com links de navegação.
-
 * Botão "Saber mais" na pagina principal.
-
 * Estilização usando CSS.
-
 * Layout do Bootstrap.
+
 ### Tecnologias utilizadas
 * HTML5
 * CSS
@@ -31,7 +32,7 @@ Este projeto é uma página de capa  usando Bootstrap v5.0, ideal para página i
 * Bootstrap v5.0
 ## Fontes cosultadas
  [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível
+ [Github](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
  
- Consulta com Professor Leonardo Rocha
 ## Autores
 Nicolas, Miguel e Gabriel
