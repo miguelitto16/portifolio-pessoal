@@ -35,7 +35,7 @@ Este projeto é uma página de capa  usando Bootstrap v5.0, ideal para página i
 
 ### Tecnologias utilizadas
 * HTML5
-* CSS
+* CSS 3
 * Github
 * Bootstrap v5.0
 * Visual Studio Code
